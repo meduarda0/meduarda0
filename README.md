@@ -43,9 +43,16 @@ Busco minha primeira oportunidade profissional na área de tecnologia, onde poss
 - Postman
 - Scrum e Kanban
 
-## Projetos
+## Pesquisa
 
-Entre os projetos, estão aplicações desenvolvidas com Java e Spring Boot, soluções utilizando Python e algoritmos de busca, além de aplicações web com JavaScript, Node.js e Express.
+**Privacidade na Internet das Coisas: Uma análise crítica dos desafios de segurança no contexto da LGPD**
+
+Trabalho de Conclusão de CUrso (TCC) sobre os desafios de adequação de dispositivos IoT à LGPD, considerando limitações de processamento, memória e energia e mecanismos de segurança.
+- Publicação: https://bia.ifpi.edu.br/items/62865c15-06ea-4af7-a934-519289232c89
+
+**Segurança universitária: Tecnologia e prevenção de crimes em ambientes acadêmicos**
+Artigo acadêmico publicado no Convibra, abordando o uso da tecnologia na prevenção de crimes em ambientes universitários.
+- Publicação:
 
 ## Objetivo profissional
 
